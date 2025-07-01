@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https.git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Amadeus+Moura!+%F0%9F%91%8B;Desenvolvedor+Back-end" alt="Typing SVG" /></a>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlla3dvZTExbDc4dmw3OWE4MXh5OGlieTJ2YzJoejRkcTRwN3ZuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kp24ItKtxYWcZWixzj/giphy.gif" width="600" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&width=435&lines=Eu+sou+Amadeus+Moura!;Desenvolvedor+Back-end" alt="Typing SVG" /></a>
 </p>
 
 ---
