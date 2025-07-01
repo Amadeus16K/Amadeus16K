@@ -23,7 +23,7 @@ const amadeus = {
   tools: ["Express", "Knex.js", "JWT", "Git"],
   learning: ["TypeScript", "Microsserviços", "AWS"]
 };
-
+```
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
