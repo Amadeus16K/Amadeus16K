@@ -1,10 +1,28 @@
-### Olá, eu sou o Amadeus! 👋
+<p align="center">
+  <a href="https.git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Amadeus+Moura!+%F0%9F%91%8B;Desenvolvedor+Back-end" alt="Typing SVG" /></a>
+</p>
 
-<p align="left">
-  Sou um Desenvolvedor Back-end apaixonado por construir a lógica e a infraestrutura que fazem as aplicações funcionarem de forma eficiente e segura. Atualmente, estou focado em aprimorar minhas habilidades em Node.js e ecossistemas de nuvem.
+<p align="center">
+  <img src="https://c.tenor.com/y0ubP5K_jCIAAAAC/muichiro-tokito-kimetsu-no-yaiba.gif" width="600" />
 </p>
 
 ---
+
+<div align="center">
+  <a href="https://github.com/Amadeus16K">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amadeus16K&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amadeus16K&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+### 👨‍💻 Sobre mim
+
+```javascript
+const amadeus = {
+  area: "Back-end Developer",
+  focus: ["Node.js", "API RESTful", "PostgreSQL", "Docker"],
+  tools: ["Express", "Knex.js", "JWT", "Git"],
+  learning: ["TypeScript", "Microsserviços", "AWS"]
+};
 
 ### 🛠️ Tecnologias e Ferramentas
 
