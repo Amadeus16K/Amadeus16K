@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/y0ubP5K_jCIAAAAC/muichiro-tokito-kimetsu-no-yaiba.gif" width="600" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlla3dvZTExbDc4dmw3OWE4MXh5OGlieTJ2YzJoejRkcTRwN3ZuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kp24ItKtxYWcZWixzj/giphy.gif" width="600" />
 </p>
 
 ---
@@ -23,6 +23,8 @@ const amadeus = {
   tools: ["Express", "Knex.js", "JWT", "Git"],
   learning: ["TypeScript", "Microsserviços", "AWS"]
 };
+
+---
 
 ### 🛠️ Tecnologias e Ferramentas
 
